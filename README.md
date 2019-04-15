@@ -7,8 +7,4 @@ My vim setup
 
 To install:
 
-`cd $HOME`
-
-`git clone https://github.com/youngd24/vim.git .vim`
-
-`bash $HOME/.vim/setup.sh`
+`cd $HOME; git clone https://github.com/youngd24/vim.git .vim && bash $HOME/.vim/setup.sh`
